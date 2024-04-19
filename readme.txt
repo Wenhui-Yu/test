@@ -10,7 +10,7 @@ There are two steps to conduct the experiment: (1) pretraining to get pxtr data 
 * Pretraining:
     You can download the pxtr data directly or generate it:
     1. If you chose downloading the pxtr data:
-        a. Download from from https://drive.google.com/file/d/1tW9F9ovWRzNO71bplcJg_T_fsyopzAcI/view?usp=drive_link
+        a. Download from from https://drive.google.com/file/d/1tW9F9ovWRzNO71bplcJg_T_fsyopzAcI/view?usp=sharing
         b. Unzip the .zip file, and put the datasets in clm_pretraining_with_${dataset}/dataset/${dataset}
     2. If you chose generating the pxtr data
         a. Download raw data from https://kuairand.com/ and https://static.qblv.qq.com/qblv/h5/algo-frontend/tenrec_dataset.html
